@@ -2,6 +2,16 @@
   "engines":{
     "node": "20.9.0"
   },
+  "name":"majorproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license":"ISC",
   "dependencies": {
     "@mapbox/mapbox-sdk": "^0.16.0",
     "cloudinary": "^2.2.0",
